@@ -1,0 +1,146 @@
+{
+  "ThirdRepoList": {
+    "$values": [
+      {
+        "Url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/cn/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Bluefissure/Penumbra/master/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/haojunsui/DalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Yarukon/DalamudPlugins/master/pluginmaster.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/ArchiDog1998/XIVAutoAttack/master/pluginmaster.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "Url": "https://plugins.annaclemens.io/unofficial",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/LittleNightmare/MyDalamudPlugins/main/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/moewcorp/AutoAction/main/pluginmaster.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "Url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://love.puni.sh/ment.json",
+        "IsEnabled": true,
+        "Name": null
+      }
+    ]
+  }
+}
