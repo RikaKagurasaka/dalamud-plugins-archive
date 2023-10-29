@@ -1,0 +1,32 @@
+name: refresh
+on: 
+  schedule:
+    - cron: '0 4 * * *' # This schedules the workflow to run every day UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: yarn install
+
+      - name: Run Refresh Script
+        run: yarn node ./src/refresh.mjs
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Auto-commit by GitHub Actions"
+          git push
+
