@@ -1,8 +1,8 @@
 name: refresh
-on: workflow_dispatch
-# on: 
-#   schedule:
-#     - cron: '0 4 * * *' # This schedules the workflow to run every day UTC
+# on: workflow_dispatch
+on: 
+  schedule:
+    - cron: '0 4 * * *' # This schedules the workflow to run every day UTC
 jobs:
   build:
     runs-on: ubuntu-latest
