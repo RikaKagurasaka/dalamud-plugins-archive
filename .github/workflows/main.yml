@@ -23,6 +23,7 @@ jobs:
         run: yarn node ./src/refresh.mjs
 
       - name: Commit changes
+        continue-on-error: true
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
