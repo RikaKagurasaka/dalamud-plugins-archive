@@ -140,6 +140,26 @@
         "Url": "https://love.puni.sh/ment.json",
         "IsEnabled": true,
         "Name": null
+      },
+      {
+        "Url": "https://puni.sh/api/repository/veyn",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster_experimental.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "Url": "https://github.com/Truncuso/AutoDuty/raw/master/AutoDuty/AutoDuty.json",
+        "IsEnabled": true,
+        "Name": null
       }
     ]
   }
