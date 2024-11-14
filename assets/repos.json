@@ -1,164 +1,239 @@
 {
   "ThirdRepoList": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud]], System.Private.CoreLib",
     "$values": [
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/cn/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Bluefissure/Penumbra/master/repo.json",
-        "IsEnabled": true,
+        "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/haojunsui/DalamudPlugins/main/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Yarukon/DalamudPlugins/master/pluginmaster.json",
         "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
         "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/carvelli/Dalamud-Plugins/master/dist/pluginmaster.json",
-        "IsEnabled": true,
+        "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/ArchiDog1998/XIVAutoAttack/master/pluginmaster.json",
         "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
-        "IsEnabled": false,
-        "Name": null
-      },
-      {
-        "Url": "https://plugins.annaclemens.io/unofficial",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://plugins.annaclemens.io/unofficial",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/LittleNightmare/MyDalamudPlugins/main/repo.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/moewcorp/AutoAction/main/pluginmaster.json",
         "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
         "IsEnabled": false,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://love.puni.sh/ment.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://github.com/Ottermandias/SeaOfStars/raw/main/repo.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://github.com/zhouhuichen741/dalamud-plugins/raw/master/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://puni.sh/api/repository/veyn",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster_experimental.json",
         "IsEnabled": true,
         "Name": null
       },
       {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
         "Url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
         "IsEnabled": true,
         "Name": null
       },
       {
-        "Url": "https://github.com/Truncuso/AutoDuty/raw/master/AutoDuty/AutoDuty.json",
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
         "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://github.com/Truncuso/AutoDuty/raw/master/AutoDuty/AutoDuty.json",
+        "IsEnabled": false,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://aetherment.sevii.dev/plugin",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json",
+        "IsEnabled": false,
         "Name": null
       }
     ]
