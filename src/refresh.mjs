@@ -6,7 +6,7 @@ async function main() {
   const promises = repos.map((repo) => fetch(repo).then((res) => res.json()));
   const reposData = await Promise.all(promises.map((p) => p.catch((e) => e)));
   for (const repoData of reposData) {
-    if (repoData instanceof Error) {
+    if (repoData instanceof Error || repoData[Symbol.iterator] === undefined) {
       console.error(repoData);
       continue;
     }
